@@ -1,0 +1,10 @@
+{
+  "name": "ia-factory-agents",
+  "version": "0.1.0",
+  "description": "Les 11 agents de la bibliothèque IA Factory en skills : VoC, transcripts, stratégie édito, rédaction, lead magnet, cas clients, prépa R1, closing, propale, chef de projet, cadrage d'offre & pricing.",
+  "author": {
+    "name": "Johanna Prevost"
+  },
+  "repository": "https://github.com/prevostjohanna/ia-factory-agents",
+  "keywords": ["ia-factory", "freelance", "vente", "contenu", "delivery", "pricing", "notion"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ia-factory",
+  "owner": {
+    "name": "Johanna Prevost"
+  },
+  "metadata": {
+    "description": "Marketplace IA Factory : les agents de la bibliothèque en skills Claude."
+  },
+  "plugins": [
+    {
+      "name": "ia-factory-agents",
+      "source": "./",
+      "description": "Les 11 agents de la bibliothèque IA Factory en skills.",
+      "version": "0.1.0"
+    }
+  ]
+}
